@@ -19,6 +19,6 @@ docker run -p 8081:8081 --name=multi-stage --rm multi-stage:latest
 
 ## References
 
-- [Use multi-stage builds](https://spring.io/guides/gs/spring-boot-docker/)
+- [Use multi-stage builds](https://docs.docker.com/develop/develop-images/multistage-build/)
 - [Spring-boot-docker](https://spring.io/guides/gs/spring-boot-docker/)
 
