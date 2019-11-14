@@ -1,6 +1,6 @@
 # Java On Docker Image
 
-This project show how to build a java spring-boot application using the docker´s multi-stage functionality and package it into a docker image and run it on a container.
+This project show how to build a java spring-boot application using the docker´s multi-stage functionality and package it into a docker image and run it on a container. It is part of the blog article that you can find [here](https://educosta.dev/blog/learn-how-to-package-your-java-application-into-a-docker-image/)
 
 ## Useful Commands
 
